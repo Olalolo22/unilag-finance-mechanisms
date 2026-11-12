@@ -35,7 +35,19 @@ FIN 418 covers international financial systems, currency dynamics, and corporate
 ---
 
 ## 3. Directory Layout
-* `materials/` — Slide decks, syllabus PDFs, past questions.
-* `notes/` — FX parity formulas, BOP models, currency risk notes.
-* `primitives/` — Cross-currency swap invariant contracts and funding rate simulation scripts.
+* `materials/` — Complete lecture decks, notes, and case study files:
+  * `Balance_of_Payment_1.pdf` (10.4 MB)
+  * `Balance_of_Payment_FIN_418.pdf` (6.0 MB)
+  * `Balance_of_Payment_Theories.docx`
+  * `BOP_Overview_of_Balance_Payment_Accounts.pptx`
+  * `Fin_418_FOREX.pdf` (4.9 MB)
+  * `Fin_418_Int_Biz_Fin_9thNov.pdf` (10.4 MB)
+  * `Fin_418_Comprehensive_Material.pdf` (15.0 MB)
+  * `FIN_418_Lecture_Notes.pdf` (6.2 MB)
+  * `International_Business_Finance_Org.pdf` (5.3 MB)
+  * `Investment_Portfolio_Int_Biz_Fin.pdf` (9.8 MB)
+  * `Optimum_Currency_Area_and_International_Financial_Integration.pdf`
+  * `Overview_of_Multinational_Companies.docx`
+* `notes/` — Mode 1 UNILAG exam-ready notes (FX parity formulas, BOP models, currency risk notes).
+* `primitives/` — Mode 2 cross-currency swap invariant contracts and funding rate simulation scripts.
 
