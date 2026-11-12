@@ -39,3 +39,4 @@ FIN 433 is the premier theoretical corporate finance course at UNILAG. It covers
 * `materials/` — Slide decks, syllabus PDFs, past questions.
 * `notes/` — Chapter summaries (Capital Structure, Dividends, Utility).
 * `primitives/` — Smart contract implementations of payoff curves and auction incentive models.
+

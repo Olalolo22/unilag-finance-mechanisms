@@ -34,3 +34,4 @@ FBA 414 focuses on quantitative modeling and operational research for executive 
 * `materials/` — Slide decks, CBT past questions.
 * `notes/` — Decision trees, LP formulation guides, inventory math.
 * `primitives/` — Solver routing algorithms and keeper batching scripts.
+

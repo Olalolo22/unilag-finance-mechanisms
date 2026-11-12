@@ -25,3 +25,4 @@ Each course folder contains:
 2. `notes/` — Chapter summaries and lecture notes.
 3. `materials/` — Dedicated folder for slides, past questions, and reading PDFs from Google Drive.
 4. `primitives/` — Code prototypes (Solidity / Rust / TypeScript) implementing the course's economic formulas on-chain.
+

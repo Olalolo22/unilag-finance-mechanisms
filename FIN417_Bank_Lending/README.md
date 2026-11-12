@@ -38,3 +38,4 @@ FIN 417 covers the operational, regulatory, and credit assessment framework of c
 * `materials/` — Slide decks, case studies, past questions.
 * `notes/` — Credit scoring models, collateral law, loan covenant notes.
 * `primitives/` — Liquidation engine simulation contracts and health factor monitoring bots.
+

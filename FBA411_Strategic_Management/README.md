@@ -29,3 +29,4 @@ FBA 411 covers strategic formulation, execution, and organizational longevity:
 * `materials/` — Slide decks, CBT past questions.
 * `notes/` — Strategy frameworks, case summaries.
 * `primitives/` — Tokenomics vesting and governance simulation models.
+

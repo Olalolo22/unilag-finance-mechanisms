@@ -38,3 +38,4 @@ FIN 418 covers international financial systems, currency dynamics, and corporate
 * `materials/` — Slide decks, syllabus PDFs, past questions.
 * `notes/` — FX parity formulas, BOP models, currency risk notes.
 * `primitives/` — Cross-currency swap invariant contracts and funding rate simulation scripts.
+
