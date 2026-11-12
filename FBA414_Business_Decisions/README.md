@@ -55,6 +55,16 @@ FBA 414 focuses on quantitative modeling and operational research for executive 
     * `FBA 410 - material on project management.pdf`
     * `ASSEMBLY LINES BALANCING FBA 410.pdf`
     * `FBA 410 LMS NOTE 2021 ASSEMBLY LINES BALANCING.pdf`
-* `notes/` — Mode 1 UNILAG exam-ready notes (decision trees, LP formulation guides, inventory math).
+* `notes/` — Mode 1 UNILAG exam-ready algorithm guides (step-by-step methods, fully worked numerical exam problems, and lecturer traps):
+  * `01_Linear_Programming_Formulation_and_Graphical_Method.md`
+  * `02_Linear_Programming_Simplex_Tableau_Method.md`
+  * `03_Assignment_Problem_Hungarian_Algorithm_and_Variations.md`
+  * `04_Game_Theory_Pure_Mixed_and_Dominance.md`
+  * `05_Transportation_Problem_NW_VAM_MODI.md`
+  * `06_Project_Management_CPM_PERT_and_Crashing.md`
+  * `07_Job_Sequencing_Johnson_Rule.md`
+  * `08_Line_Balancing_Cycle_Time_and_Efficiency.md`
+  * `09_Markov_Chains_and_Steady_State_Probabilities.md`
+  * `10_Inventory_Models_EOQ_and_Safety_Stock.md`
 * `primitives/` — Mode 2 solver routing algorithms and keeper batching scripts.
 
