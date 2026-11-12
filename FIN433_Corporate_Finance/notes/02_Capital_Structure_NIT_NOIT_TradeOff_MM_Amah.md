@@ -97,3 +97,4 @@ Where:
 
 ### WACC Formula (With Tax):
 `Kw = Ke * (E / (D + E)) + Kd * (D / (D + E)) * (1 - Tc)`
+

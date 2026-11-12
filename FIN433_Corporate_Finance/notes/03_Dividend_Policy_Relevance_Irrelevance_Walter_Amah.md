@@ -99,3 +99,4 @@ Where:
 3. **Normal / Mature Firms (`k = Ke`):**
    * The firm earns exactly the market return.
    * **Dividend policy is completely irrelevant.** Firm value remains unchanged regardless of payout ratio (agrees with M&M).
+

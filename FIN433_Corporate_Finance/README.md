@@ -36,7 +36,15 @@ FIN 433 is the premier theoretical corporate finance course at UNILAG. It covers
 ---
 
 ## 3. Directory Layout
-* `materials/` — Slide decks, syllabus PDFs, past questions.
-* `notes/` — Chapter summaries (Capital Structure, Dividends, Utility).
-* `primitives/` — Smart contract implementations of payoff curves and auction incentive models.
+* `materials/` — Slide decks, syllabus PDFs, past questions:
+  * `01_Capital_Markets_Consumption_Investment_Olowe.pdf`
+  * `02_Capital_Structure_Firm_Value_Amah.pdf` / `.pptx`
+  * `03_Dividend_Policy_Decisions_Amah.pdf` / `.pptx`
+  * `04_Utility_Theory_Olowe.pdf`
+* `notes/` — Mode 1 UNILAG exam-ready notes (theory, derivations, step-by-step arithmetic, zero code):
+  * `01_Fisher_Separation_and_Consumption_Investment_Olowe.md`
+  * `02_Capital_Structure_NIT_NOIT_TradeOff_MM_Amah.md`
+  * `03_Dividend_Policy_Relevance_Irrelevance_Walter_Amah.md`
+  * `04_Utility_Theory_Arrow_Pratt_Olowe.md`
+* `primitives/` — Smart contract implementations of payoff curves and auction incentive models (Mode 2 only).
 

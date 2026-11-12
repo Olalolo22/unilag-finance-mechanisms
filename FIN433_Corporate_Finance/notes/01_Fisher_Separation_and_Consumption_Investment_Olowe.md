@@ -54,3 +54,4 @@
 3. **Breakdown of Separation (Transaction Costs & Imperfect Markets):**
    * When borrowing rate `r_b` exceeds lending rate `r_l` (transaction costs / bid-ask spreads), the single capital market line breaks into a kinked line.
    * Shareholders can no longer agree on a single discount rate, and separation breaks down.
+
