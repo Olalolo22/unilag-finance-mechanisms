@@ -31,7 +31,30 @@ FBA 414 focuses on quantitative modeling and operational research for executive 
 ---
 
 ## 3. Directory Layout
-* `materials/` — Slide decks, CBT past questions.
-* `notes/` — Decision trees, LP formulation guides, inventory math.
-* `primitives/` — Solver routing algorithms and keeper batching scripts.
+* `materials/` — 22 lecture decks, class notes, and reference books:
+  * **Textbooks & Comprehensive Packs:**
+    * `Quantitative Techniques - 6th Ed. by T Lucey.pdf` (15.7 MB)
+    * `FBA 414 Biz Analysis @ 4th Nov.pdf` (10.6 MB)
+    * `Josh fba 410 note.pdf` (9.4 MB)
+    * `Fba 410 - class note (funbi).pdf` (9.8 MB)
+    * `Fba 410 - class note (Priscilla).pdf` (8.0 MB)
+    * `Fba 410- 2015_16 test-1.pdf.temp`
+  * **Linear Programming & Transportation:**
+    * `Linear Programming 1.pdf` & `Linear Programming 1-1.pdf`
+    * `FBA 410 Lecture Notes Transportation Model.pdf` & `.doc`
+  * **Game Theory:**
+    * `Game Theory.pdf` & `.docx`
+    * `Fba 410 Game Theory.pdf`
+  * **Inventory Management:**
+    * `Inventory Modeling (Dr. Adeleke FBA410).pdf`
+    * `Fin 414...Inventory Model.pdf`
+    * `FBA410_INVENTORY MODELS.pdf`
+    * `Fba 410 - material on inventory management.pdf`
+  * **Project Management & Assembly Lines:**
+    * `PROJECT MANAGEMENT - MR GABRIEL ONABOTE FBA 410.pdf` & `.docx`
+    * `FBA 410 - material on project management.pdf`
+    * `ASSEMBLY LINES BALANCING FBA 410.pdf`
+    * `FBA 410 LMS NOTE 2021 ASSEMBLY LINES BALANCING.pdf`
+* `notes/` — Mode 1 UNILAG exam-ready notes (decision trees, LP formulation guides, inventory math).
+* `primitives/` — Mode 2 solver routing algorithms and keeper batching scripts.
 
