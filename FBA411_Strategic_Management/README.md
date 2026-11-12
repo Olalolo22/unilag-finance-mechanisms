@@ -26,7 +26,16 @@ FBA 411 covers strategic formulation, execution, and organizational longevity:
 ---
 
 ## 3. Directory Layout
-* `materials/` — Slide decks, CBT past questions.
-* `notes/` — Strategy frameworks, case summaries.
-* `primitives/` — Tokenomics vesting and governance simulation models.
+* `materials/` — 12 lecture slides, past questions, and continuous assessments:
+  * `BUS 410 Dr. Akintunde 18.3.19-1(1).pdf`
+  * `BUS 410 Dr. Femi Lecture (1).pdf`
+  * `BUS 411 Strategic Management and Business Policy Outlines 2020-2021-1.pdf` & `.doc`
+  * `BUS411 STRATEGIC MGT AND BUS POL -  CORPORATE STRATEGY.pptx`
+  * `BUSS 411.pdf`
+  * `FBA 411 STRATEGC MGT AND BUSINESS POLICY NOTE 2022.pdf`
+  * `FBA 411...Biz policy @9th Nov.pdf` (5.8 MB)
+  * `FBA Past Question.pdf` (4.0 MB)
+  * `FBA411_BUS410 CONTINUOUS ASSESSMENT_ Attempt review.pdf`, `Attempt review (2).pdf`, `bullshit.pdf`
+* `notes/` — Mode 1 UNILAG exam-ready notes (strategy frameworks, case summaries).
+* `primitives/` — Mode 2 tokenomics vesting and governance simulation models.
 
