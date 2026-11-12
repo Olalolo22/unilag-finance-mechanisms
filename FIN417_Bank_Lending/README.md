@@ -35,7 +35,14 @@ FIN 417 covers the operational, regulatory, and credit assessment framework of c
 ---
 
 ## 3. Directory Layout
-* `materials/` — Slide decks, case studies, past questions.
-* `notes/` — Credit scoring models, collateral law, loan covenant notes.
-* `primitives/` — Liquidation engine simulation contracts and health factor monitoring bots.
+* `materials/` — Course outlines, slides, case studies, and reading packs:
+  * `1 - BANK LENDING ENVIRONMENT.pdf`
+  * `BANK LENDING CONCEPTS, PRINCIPLES AND PROCESS(1).pdf` & `.docx`
+  * `BANK CREDIT ANALYSIS(1).pdf` & `.docx`
+  * `BANK CREDIT-RISK MANAGEMENT(1).pdf`
+  * `SECURITIES FOR BANKERS ADVANCE.pdf`
+  * `PROBLEMS LOAN AND DEBTORS_ MANAGEMENT.pdf`
+  * `Fin 417 Bank Lending @9th Nov.pdf` (7.8 MB)
+* `notes/` — Mode 1 UNILAG exam-ready notes (credit scoring models, collateral law, loan covenants).
+* `primitives/` — Mode 2 liquidation engine simulation contracts and health factor monitoring bots.
 
