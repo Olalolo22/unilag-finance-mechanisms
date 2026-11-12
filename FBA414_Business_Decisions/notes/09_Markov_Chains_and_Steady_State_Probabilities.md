@@ -170,3 +170,4 @@ pi_2 = 1.0 - pi_1 = 1.0 - 0.60 = 0.40 (40%)
 3. **Absorbing States:**
    * An **absorbing state** is a state that, once entered, cannot be left (e.g. `p_ii = 1.0`).
    * If a system has absorbing states (like bankruptcy or terminal death), the long-run probability of being in any non-absorbing (transient) state is **zero**.
+

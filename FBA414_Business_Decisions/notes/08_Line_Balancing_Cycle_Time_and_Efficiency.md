@@ -190,3 +190,4 @@ When grouping tasks, trial-and-error fails for large problems. The standard algo
    * Students frequently assign Task F to Workstation 2 because it has a high rank, forgetting that Task F requires *both* D and E to be completed first!
 3. **Bottleneck Station:**
    * The station with the highest total time is the **bottleneck station** (here, Workstation 3 at 3.7 minutes). The line can never produce faster than its bottleneck station.
+

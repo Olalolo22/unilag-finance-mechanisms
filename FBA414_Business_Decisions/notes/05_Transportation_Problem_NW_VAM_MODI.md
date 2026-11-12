@@ -206,3 +206,4 @@ All net evaluations `d_ij >= 0` (`+4, +8, 0, +16`).
 3. **Loop Construction Rules:**
    * A stepping stone loop must alternate horizontal and vertical steps.
    * Every turn must land on an occupied cell. You can jump over unoccupied or occupied cells without turning on them.
+

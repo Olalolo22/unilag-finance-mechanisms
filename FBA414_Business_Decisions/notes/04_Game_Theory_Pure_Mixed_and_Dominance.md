@@ -223,3 +223,4 @@ Using the analytical formula:
    * A game is defined as **fair** if and only if the Value of the Game is exactly zero (`V = 0`).
    * If `V > 0`, the game is biased in favor of Player A (Row player).
    * If `V < 0`, the game is biased in favor of Player B (Column player).
+

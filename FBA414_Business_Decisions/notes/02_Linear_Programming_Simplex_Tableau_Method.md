@@ -215,3 +215,4 @@ Therefore, the **optimal solution is reached!**
    * Two methods in UNILAG exams:
      * *Method A:* Convert to maximization by maximizing `-Z` (`Max -Z = -c_1*x_1 - c_2*x_2`).
      * *Method B:* In indicator row, select the **most negative** value to enter, and stop when all `c_j - z_j >= 0`.
+

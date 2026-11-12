@@ -155,3 +155,4 @@ Using the sequence `B -> D -> C -> A -> E`:
    * Never combine 3 machines into `G` and `H` without first stating the condition:
      `min(M_1) >= max(M_2)` OR `min(M_3) >= max(M_2)`.
    * In a written exam, stating this condition earns 2 easy marks before doing any calculations!
+

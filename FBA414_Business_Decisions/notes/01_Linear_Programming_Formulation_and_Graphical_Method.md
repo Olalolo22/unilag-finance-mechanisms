@@ -165,3 +165,4 @@ Both Point B and Point C yield the exact same maximum profit of **N480**!
 
 ### Trap 4: Redundant Constraints
 * A constraint that does not touch or restrict the feasible region. Removing it changes nothing. Do not waste time computing its intersections!
+

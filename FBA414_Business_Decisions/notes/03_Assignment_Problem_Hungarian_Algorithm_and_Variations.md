@@ -177,3 +177,4 @@ Manager     Audit 1   Audit 2   Audit 3   Audit 4
 * Example: "Manager B cannot be assigned to Audit 2 due to a conflict of interest."
 * **The Rule:** Replace the cost in cell `(B, 2)` with a very large penalty value: **`M`** (or `9999`).
 * The algorithm will avoid assigning this cell at all costs.
+

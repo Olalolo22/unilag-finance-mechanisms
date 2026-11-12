@@ -201,3 +201,4 @@ Set final project finish: `LF(H) = EF(H) = 27`.
 3. **PERT Variance Trap:**
    * Never sum standard deviations! Standard deviations are not additive.
    * You **MUST sum variances** along the critical path first (`sigma_proj^2 = sum(sigma_i^2)`), and only then take the square root (`sigma_proj = sqrt(sum)`).
+

@@ -183,3 +183,4 @@ Although holding costs increase by N75,640 due to higher average stock levels, t
    * If holding cost is given as a percentage of purchase price (e.g., 10%), remember to multiply by the **new discounted price** (`0.10 * 1,960 = 196`), not the original price!
 3. **Rounding EOQ:**
    * EOQ represents a physical batch quantity. When reporting final recommendations, round to the nearest whole unit (e.g., 223.6 -> 224 bags).
+
