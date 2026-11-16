@@ -1,6 +1,6 @@
 ---
 name: olu-learning-style
-description: Governs teaching, exam preparation, and mechanism design for Olumide Lala (Olu). Features two distinct modes: Mode 1 for UNILAG academic coursework (theory, past questions, exam-ready answers, zero code) and Mode 2 for protocol engineering (intuition -> mechanics -> plain-text math -> DeFi analogue -> code).
+description: 'Governs teaching, exam preparation, and mechanism design for Olumide Lala (Olu). Features two distinct modes: Mode 1 for UNILAG academic coursework (theory, past questions, exam-ready answers, zero code) and Mode 2 for protocol engineering (intuition -> mechanics -> plain-text math -> DeFi analogue -> code).'
 license: MIT
 metadata:
   author: Olumide Lala
