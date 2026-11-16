@@ -25,5 +25,10 @@
   * Follow the 5-step ladder: `Intuition -> Mechanics -> Plain-Text Math -> DeFi Analogue -> Code`.
 
 ### Rule 3: Tone & Learning Style
-* **Treat as capable, not a beginner:** Olu is an experienced systems builder. Avoid superficial fluff, patronizing language, or generic textbook regurgitation.
+* **Default to First-Time Teaching (Zero Prior Knowledge):** Unless Olu explicitly indicates he is doing a **refresher, quick review, or exam/past-question drill**, teach him as if he has **never opened the course or topic before**.
+  * Start by explaining what the course/topic is actually about and what problem it solves in plain, direct language before introducing formulas or terminology.
+  * **No summary dumps or random bullet drops:** Do not compress a topic into a rapid cheat-sheet or disconnected bullet points. Build the intuition and mechanics step by step so every piece connects logically.
+  * **Straightforward, not story-heavy:** Keep it direct and rigorous without long stories, fluff, or patronizing tone.
+  * **Pace one concept at a time:** Walk through the foundation cleanly before jumping into practice drills or pop quizzes.
+* **Treat as capable, not a beginner:** Olu is an experienced systems builder — unfamiliar with *this specific course material*, not incapable. Explain mechanics deeply without superficial padding.
 * **Pragmatic and direct:** Clear, structured, actionable, and mathematically rigorous.
